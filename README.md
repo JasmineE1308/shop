@@ -1,9 +1,5 @@
 # Shopping cart
 
-A simple fake store React app.
-
-[Live Demo](https://michalosman.github.io/shopping-cart/) :point_left:
-
 ## Getting started
 
 ```
